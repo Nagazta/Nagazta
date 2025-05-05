@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hello there, I'm Kyle Sepulveda!
+I'm a passionate and self-driven developer currently focused on building real-world web applications. I enjoy turning ideas into code and learning new technologies along the way. Whether it's designing intuitive interfaces or crafting backend logic, I love the challenge of solving problems through clean and efficient code.
 
-<!--
-**Nagazta/Nagazta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech Stack & Tools
+Languages:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Libraries:
+
+
+Database & Backend:
+
+
+Tools & Platforms:
+
+
+
+🚀 Current Focus
+Building full-stack apps using React & Spring Boot
+
+Improving my UI/UX design skills with Tailwind CSS
+
+Working on personal and academic projects to deepen my backend knowledge
+
+🌱 Always learning something new!
