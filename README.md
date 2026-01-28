@@ -119,18 +119,6 @@ console.log(`System online. Developer ${kyle.role} ready for deployment.`);
 <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-<br>Redis
-</td>
 </tr>
 </table>
 
@@ -155,10 +143,6 @@ console.log(`System online. Developer ${kyle.role} ready for deployment.`);
 <br>Docker
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 <br>Postman
 </td>
@@ -169,7 +153,7 @@ console.log(`System online. Developer ${kyle.role} ready for deployment.`);
 
 ---
 
-## 🎯 **>_ CURRENT MISSIONS**
+##  **CURRENT MISSIONS**
 
 ```diff
 + Building full-stack applications using React & Spring Boot
@@ -185,7 +169,7 @@ output: "Real-world applications that solve problems"
 
 ---
 
-## 📊 **>_ SYSTEM METRICS**
+## **>SYSTEM METRICS**
 
 <div align="center">
 
@@ -196,34 +180,7 @@ output: "Real-world applications that solve problems"
 
 </div>
 
----
 
-## 🌟 **>_ CORE PHILOSOPHY**
-
-<div align="center">
-
-```python
-class Developer:
-    def __init__(self):
-        self.passion = "Turning ideas into code"
-        self.approach = "Clean, efficient, scalable"
-        self.learning = True  # Always
-        
-    def solve_problems(self):
-        while self.learning:
-            self.code()
-            self.iterate()
-            self.improve()
-            
-    def status(self):
-        return "🚀 Always learning something new!"
-```
-
-> **"Learning is not a phase, it's a lifestyle."**
-
-</div>
-
----
 
 ## 📫 **>_ ESTABLISH CONNECTION**
 
@@ -237,8 +194,8 @@ $ network --init
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=06b6d4)](https://github.com/Nagazta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=06b6d4)](https://linkedin.com/in/kyle-sepulveda)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=06b6d4)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:kyle.sepulveda27@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=06b6d4)](https://https://kyle-sepulveda.vercel.app/)
 
 </div>
 
@@ -246,17 +203,9 @@ $ network --init
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ⚡ POWERED BY CURIOSITY | DRIVEN BY CODE ⚡               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 ### **`[ SYSTEM STATUS: OPERATIONAL ]`**
 
-**© 2026 Kyle Sepulveda • Built with 💙 and a lot of ☕**
+**© 2026 Kyle Sepulveda**
 
 ```bash
 > _
