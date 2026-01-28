@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> **>_ SYSTEM INITIALIZING...**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="35" /> **SYSTEM INITIALIZING...**
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  █▄▀ █▄█ █░░ █▀▀   █▀ █▀▀ █▀█ █░█ █░░ █░█ █▀▀ █▀▄ ▄▀█    ║
-║  █░█ ░█░ █▄▄ ██▄   ▄█ ██▄ █▀▀ █▄█ █▄▄ ▀▄▀ ██▄ █▄▀ █▀█    ║
-╚══════════════════════════════════════════════════════════════╝
+                ╔══════════════════════════════════════════════════════════════╗
+                ║  █▄▀ █▄█ █░░ █▀▀   █▀ █▀▀ █▀█ █░█ █░░ █░█ █▀▀ █▀▄ ▄▀█    ║
+                ║  █░█ ░█░ █▄▄ ██▄   ▄█ ██▄ █▀▀ █▄█ █▄▄ ▀▄▀ ██▄ █▄▀ █▀█    ║
+                ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-## 📡 **>_ STATUS: ACTIVE**
+##**STATUS: ACTIVE**
 
 ```javascript
 const kyle = {
@@ -169,7 +169,7 @@ output: "Real-world applications that solve problems"
 
 ---
 
-## **>SYSTEM METRICS**
+## **SYSTEM METRICS**
 
 <div align="center">
 
@@ -182,7 +182,7 @@ output: "Real-world applications that solve problems"
 
 
 
-## 📫 **>_ ESTABLISH CONNECTION**
+## **ESTABLISH CONNECTION**
 
 <div align="center">
 
