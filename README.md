@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="35" /> **SYSTEM INITIALIZING...**
+# **SYSTEM INITIALIZING...**
 
 ```ascii
-                ╔══════════════════════════════════════════════════════════════╗
-                ║  █▄▀ █▄█ █░░ █▀▀   █▀ █▀▀ █▀█ █░█ █░░ █░█ █▀▀ █▀▄ ▄▀█    ║
-                ║  █░█ ░█░ █▄▄ ██▄   ▄█ ██▄ █▀▀ █▄█ █▄▄ ▀▄▀ ██▄ █▄▀ █▀█    ║
-                ╚══════════════════════════════════════════════════════════════╝
+                                      ╔══════════════════════════════════════════════════════════════╗
+                                      ║  █▄▀ █▄█ █░░ █▀▀   █▀ █▀▀ █▀█ █░█ █░░ █░█ █▀▀ █▀▄ ▄▀█    ║
+                                      ║  █░█ ░█░ █▄▄ ██▄   ▄█ ██▄ █▀▀ █▄█ █▄▄ ▀▄▀ ██▄ █▄▀ █▀█    ║
+                                      ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -41,7 +41,7 @@ console.log(`System online. Developer ${kyle.role} ready for deployment.`);
 
 ---
 
-## 🛠️ **>_ TECH ARSENAL**
+## **TECH ARSENAL**
 
 <div align="center">
 
